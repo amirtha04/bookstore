@@ -1,4 +1,5 @@
 # bookstore project
+
 # Description
 
 This is a Book Store Project built using the MERN (MongoDB, Express.js, React, and Node.js) stack. The project demonstrates CRUD (Create, Read, Update, Delete) operations on both the backend and frontend, including routing and CORS policy configuration.
@@ -24,6 +25,7 @@ Node.js
 Express.js
 
 MongoDB (Mongoose for database operations)
+
 
 Frontend:
 
